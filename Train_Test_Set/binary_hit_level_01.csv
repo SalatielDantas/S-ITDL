@@ -1,0 +1,31 @@
+Type1,Count1,Type2,Count2,Type3,Count3
+Health & Medical,0,Nightlife,25,Health & Medical,0
+Shopping,1,Nightlife,22,Shopping,2
+Restaurants,0,Hotels & Travel,21,Restaurants,4
+Shopping,0,Education,25,Shopping,0
+Restaurants,9,Restaurants,5,Restaurants,12
+Automotive,0,Nightlife,26,Automotive,0
+Nightlife,0,Pets,25,Nightlife,0
+Food,25,Shopping,0,Shopping,0
+Restaurants,12,Restaurants,8,Restaurants,5
+Hotels & Travel,1,Shopping,24,Automotive,0
+Hotels & Travel,0,Hotels & Travel,0,Restaurants,25
+Arts & Entertainment,25,Pets,0,Pets,0
+Beauty & Spas,0,Beauty & Spas,0,Pets,25
+Beauty & Spas,0,Local Flavor,25,Beauty & Spas,0
+Pets,0,Hotels & Travel,25,Pets,1
+Religious Organizations,26,Hotels & Travel,0,Hotels & Travel,0
+Education,25,Health & Medical,0,Health & Medical,0
+Automotive,0,Automotive,0,Restaurants,25
+Food,0,Food,0,Home Services,25
+Food,25,Hotels & Travel,0,Hotels & Travel,0
+Education,0,Education,0,Nightlife,25
+Arts & Entertainment,2,Arts & Entertainment,0,Education,24
+Education,0,Arts & Entertainment,26,Education,0
+Restaurants,0,Nightlife,25,Restaurants,0
+Home Services,0,Home Services,0,Pets,25
+Nightlife,0,Nightlife,0,Pets,26
+Public Services & Government,26,Nightlife,0,Nightlife,0
+Automotive,1,Restaurants,24,Automotive,0
+Automotive,0,Religious Organizations,26,Automotive,0
+Beauty & Spas,19,Restaurants,0,Restaurants,6
